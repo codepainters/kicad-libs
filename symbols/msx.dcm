@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP cartridge_slot
+D MSX cartridge slot (signal directionality as seen from the MSX computer)
+K msx cartiridge
+$ENDCMP
+#
+#End Doc Library
