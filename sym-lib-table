@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name vintage_cpu)(type Legacy)(uri ${KIPRJMOD}/symbols/vintage_cpu.lib)(options "")(descr ""))
+  (lib (name msx)(type Legacy)(uri ${KIPRJMOD}/symbols/msx.lib)(options "")(descr ""))
+)
