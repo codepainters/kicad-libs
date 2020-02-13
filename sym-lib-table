@@ -3,4 +3,5 @@
   (lib (name msx)(type Legacy)(uri ${KIPRJMOD}/symbols/msx.lib)(options "")(descr ""))
   (lib (name vintage_logic)(type Legacy)(uri ${KIPRJMOD}/symbols/vintage_logic.lib)(options "")(descr ""))
   (lib (name vintage_mem)(type Legacy)(uri ${KIPRJMOD}/symbols/vintage_mem.lib)(options "")(descr ""))
+  (lib (name cpld_fpga)(type Legacy)(uri ${KIPRJMOD}/symbols/cpld_fpga.lib)(options "")(descr ""))
 )
